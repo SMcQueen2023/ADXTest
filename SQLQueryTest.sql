@@ -1,1 +1,1 @@
-select count(*) from dbo.DimGeography;
+select * from dbo.DimGeography;
